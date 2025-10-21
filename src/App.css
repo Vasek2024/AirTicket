@@ -1,0 +1,10 @@
+#root {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.input:checked + .item {
+  display: block;
+  background-color: #4e148c;
+  color: #f7f9f7;
+}
